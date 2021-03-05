@@ -83,7 +83,7 @@ For commands that involve files, it is assumed that the files are text - _not bi
 > [mv](https://linux.die.net/man/1/mv) FILE1 FILE2  
 > Rename FILE1 to FILE2
 
-> mv FILE DIR
+> mv FILE DIR  
 > Move FILE to DIR
 
 ### mywget
