@@ -32,55 +32,55 @@ For commands that involve files, it is assumed that the files are text - _not bi
 
 ### mytail
 
-> [tail](https://linux.die.net/man/1/tail) FILE
+> [tail](https://linux.die.net/man/1/tail) FILE  
 > Print last 10 lines of FILE
 
 ### mycat
 
-> [cat](https://linux.die.net/man/1/cat) FILE
+> [cat](https://linux.die.net/man/1/cat) FILE  
 > Prints FILE to stdout
 
-> cat FILE1 FILE2 ...
+> cat FILE1 FILE2 ...  
 > Concatenate FILE1 and FILE2 and print to stdout
 
 ### mysort
 
-> [sort](https://linux.die.net/man/1/sort) FILE
+> [sort](https://linux.die.net/man/1/sort) FILE  
 > Sort the content of FILE alphabetically and print it to the screen. Do not change the file.
 
 ### mytouch
 
-> [touch](https://linux.die.net/man/1/touch) FILE
+> [touch](https://linux.die.net/man/1/touch) FILE  
 > Create FILE as empty file
 
 ### mydate
 
-> [date](https://linux.die.net/man/1/date)
+> [date](https://linux.die.net/man/1/date)  
 > Print the system date and time
 
 ### myls
 
-> [ls](https://linux.die.net/man/1/ls)
+> [ls](https://linux.die.net/man/1/ls)  
 > List contents of the current directory
 
 ### mymkdir
 
-> [mkdir](https://linux.die.net/man/1/mkdir) DIR
+> [mkdir](https://linux.die.net/man/1/mkdir) DIR  
 > Create a new directory called DIR
 
 ### myrm
 
-> [rm](https://linux.die.net/man/1/rm) FILE
+> [rm](https://linux.die.net/man/1/rm) FILE  
 > Remove FILE
 
 ### mycp
 
-> [cp](https://linux.die.net/man/1/cp) FILE1 FILE2
+> [cp](https://linux.die.net/man/1/cp) FILE1 FILE2  
 > Copy the contents of FILE1 to FILE2
 
 ### mymv
 
-> [mv](https://linux.die.net/man/1/mv) FILE1 FILE2
+> [mv](https://linux.die.net/man/1/mv) FILE1 FILE2  
 > Rename FILE1 to FILE2
 
 > mv FILE DIR
@@ -88,5 +88,5 @@ For commands that involve files, it is assumed that the files are text - _not bi
 
 ### mywget
 
-> [wget](https://linux.die.net/man/1/wget) URL
+> [wget](https://linux.die.net/man/1/wget) URL  
 > Download the file at URL
