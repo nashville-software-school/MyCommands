@@ -13,13 +13,13 @@ For commands that involve files, it is assumed that the files are text - _not bi
 > **NOTE:** You might find it interesting to _"publish"_ your commands so they can be executed as stand-alone commands.
 >   
 > **If you're on Windows:**
-> `dotnet publish -r linux-x64 -p:PublishSingleFile=true -o publish`
+> `dotnet publish -r win-x64 -p:PublishSingleFile=true -o publish`
 > 
 > **If you're on Linux:**
 > `dotnet publish -r linux-x64 -p:PublishSingleFile=true -o publish`
 > 
 > **If you're on MacOS:**
-> `dotnet publish -r linux-x64 -p:PublishSingleFile=true -o publish`
+> `dotnet publish -r osx-x64 -p:PublishSingleFile=true -o publish`
 >
 > Once you've fun this command you can find your executable in the newly created `publish` directory.
 
