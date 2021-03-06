@@ -63,6 +63,9 @@ For commands that involve files, it is assumed that the files are text - _not bi
 > [ls](https://linux.die.net/man/1/ls)  
 > List contents of the current directory
 
+> ls DIR  
+> List contents of DIR
+
 ### mymkdir
 
 > [mkdir](https://linux.die.net/man/1/mkdir) DIR  
