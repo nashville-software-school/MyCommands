@@ -57,7 +57,8 @@ For commands that involve files, it is assumed that the files are text - _not bi
 ### mydate
 
 > [date](https://linux.die.net/man/1/date)  
-> Print the system date and time
+> Print the system date and time  
+> **NOTE:** The date should be printed in this format: "Mon Mar &nbsp; 8 11:54:05 AM CST 2021"
 
 ### myls
 
